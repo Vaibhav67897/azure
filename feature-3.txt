@@ -2,4 +2,6 @@
 
 dev3 +> added a another new feature  
 
-added a safe changes 
+added a safe changes
+
+use the all feature dev=3 
